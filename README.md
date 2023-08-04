@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/jetkwok_/">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+<a href="https://space.bilibili.com/13480892">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
 <a href="https://weibo.com/t9876543210">
