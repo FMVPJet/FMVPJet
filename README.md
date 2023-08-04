@@ -41,7 +41,7 @@
 
 <td align="center" width="12%">
 <span><b><center>C++</center></b></span> <br>
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<img height=60px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </td>
 
 <td align="center" width="12%">
@@ -59,22 +59,22 @@
 <tr> -->
 <td align="center" width="12%">
 <span><b><center>Pycharm</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> 
 </td>
 
 <td align="center" width="12%">
 <span><b><center>VS Code</center></b></span> <br>
-<img height=65px src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
+<img height=60px src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
 </td>
 
 <td align="center" width="12%">
 <span><b><center>Git<br></center></b> 
-<img height=65px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
+<img height=60px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
 </td>
 
 <td align="center" width="12%">
 <span><b><center>Visual Studio</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/archive/5/59/20210214224136%21Visual_Studio_Icon_2019.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/archive/5/59/20210214224136%21Visual_Studio_Icon_2019.svg"> 
 </td>
 </tr>
 
