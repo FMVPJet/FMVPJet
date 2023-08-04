@@ -31,43 +31,43 @@
 ### Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 <br>
-<table align="center">
+<table>
 <tbody>
 <tr>
-<td align="center" width="12%">
+<td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
-<td align="center" width="12%">
+<td align="center" width="20%">
 <span><b><center>C++</center></b></span> <br>
 <img height=60px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </td>
 
-<td align="center" width="12%">
+<td align="center" width="20%">
 <span><b><center>MATLAB<br></center></b> 
 <img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
 </td>
 
-<td align="center" width="12%">
+<td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
-<!-- </tr>
+</tr>
 
 
-<tr> -->
-<td align="center" width="12%">
+<tr>
+<td align="center" width="20%">
 <span><b><center>Pycharm</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> 
 </td>
 
-<td align="center" width="12%">
+<td align="center" width="20%">
 <span><b><center>VS Code</center></b></span> <br>
 <img height=60px src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
 </td>
 
-<td align="center" width="12%">
+<td align="center" width="20%">
 <span><b><center>Git<br></center></b> 
 <img height=60px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
 </td>
@@ -78,6 +78,9 @@
 </td>
 </tr>
 
-
 </tbody>
 </table>
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FMVPJet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMVPJet&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
