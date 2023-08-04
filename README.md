@@ -24,3 +24,60 @@
 - Zhengzhou, CHN
 - Email: JetKwok827@gmail.com
 - Personal Website: https://fmvpjet.github.io
+
+
+
+
+### Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
+
+<br>
+<table align="center">
+<tbody>
+<tr>
+<td align="center" width="12%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+
+<td align="center" width="12%">
+<span><b><center>C++</center></b></span> <br>
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+<td align="center" width="12%">
+<span><b><center>MATLAB<br></center></b> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="12%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+<!-- </tr>
+
+
+<tr> -->
+<td align="center" width="12%">
+<span><b><center>Pycharm</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> 
+</td>
+
+<td align="center" width="12%">
+<span><b><center>VS Code</center></b></span> <br>
+<img height=65px src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
+</td>
+
+<td align="center" width="12%">
+<span><b><center>Git<br></center></b> 
+<img height=65px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
+</td>
+
+<td align="center" width="12%">
+<span><b><center>Visual Studio</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/archive/5/59/20210214224136%21Visual_Studio_Icon_2019.svg"> 
+</td>
+</tr>
+
+
+</tbody>
+</table>
