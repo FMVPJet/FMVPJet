@@ -1,18 +1,18 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/jetkwok3">
+<a href="https://twitter.com/jetkwok3" target="_blank">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/FMVPJet">
+<a href="https://github.com/FMVPJet" target="_blank">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/jetkwok_/">
+<a href="https://www.instagram.com/jetkwok_/" target="_blank">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://space.bilibili.com/13480892">
+<a href="https://space.bilibili.com/13480892" target="_blank">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
-<a href="https://weibo.com/t9876543210">
+<a href="https://weibo.com/t9876543210" target="_blank">
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
 </a>
 <br />
@@ -23,7 +23,7 @@
 - An Algorithm Engineer
 - Zhengzhou, CHN
 - Email: JetKwok827@gmail.com
-- Personal Website: https://fmvpjet.github.io
+- Personal Website: <https://fmvpjet.github.io>{:target="_blank"}
 
 
 
