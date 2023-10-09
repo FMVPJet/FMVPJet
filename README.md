@@ -23,7 +23,7 @@
 - An Algorithm Engineer
 - Zhengzhou, CHN
 - Email: JetKwok827@gmail.com
-- Personal Website: <https://fmvpjet.github.io>{:target="_blank"}
+- Personal Website: https://fmvpjet.github.io
 
 
 
